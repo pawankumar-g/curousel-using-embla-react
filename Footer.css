@@ -1,0 +1,22 @@
+.footer {
+  background-color: #222;
+  color: #eee;
+  padding: 20px 40px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.footer-links {
+  margin-top: 10px;
+}
+
+.footer-links a {
+  color: #ddd;
+  margin: 0 12px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #ff9800;
+}
